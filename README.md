@@ -1,5 +1,5 @@
 # Fraud
-## I'll walk you through each stage for what I done, while giving a general overview:
+## I'll walk you through each stage for what I've done, while giving a general overview:
 ### Data preprocessing: 
 The first step is to search the dataset for missing values and outliers. There are no missing values discovered, and the quantile approach is used to handle outliers.
 ### Data visualisation: 
